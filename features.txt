@@ -1,1 +1,4 @@
-Feature 1 - CREATING A CONFLICT 
+Feature 1
+
+Creating a conflict in develop branch - fixed
+
