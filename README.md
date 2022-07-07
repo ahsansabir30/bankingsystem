@@ -1,2 +1,2 @@
 # bankingsystem
-forking a repo - creating branches, and merging them (and deleting branches)
+forking a repo - creating branches, merging them and then deleting additional branches
